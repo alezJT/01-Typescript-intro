@@ -13,6 +13,6 @@ const Paco: caracter = {
     skills: ['Bash', 'Counter'],
 }
 
-Paco.hometown = 'Gauley';
+Paco.hometown = 'Gualey';
 
 console.table(Paco);
