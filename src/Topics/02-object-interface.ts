@@ -15,4 +15,4 @@ const Paco: caracter = {
 
 Paco.hometown = 'Gualey';
 
-console.table(Paco,skills);
+console.table(Paco, skills);
